@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20Am%20Jinyeong&fontSize=90)<br>
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20Am%20Jinyeong&fontSize=90)<br>
 안녕하세요!<br>
 좋은 영향력을 줄 수 있는!<br>
 맡은바를 책임감있게 처리하는!<br>
@@ -24,4 +24,4 @@
 ![footer](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![footer](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![footer](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![footer](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+![footer](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]</div>
