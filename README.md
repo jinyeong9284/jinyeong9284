@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20Am%20Jinyeong&fontSize=90)
 
-<center>안녕하세요!<br>
+<center>안녕하세요!<br></center>
 좋은 영향력을 줄 수 있는!<br>
 맡은바를 책임감있게 처리하는!<br>
 웹 퍼블리셔가 되도록 하겠습니다🙂
