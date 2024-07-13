@@ -29,5 +29,4 @@
 ![footer](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![footer](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyeong9284a&hide_progress=true)
 </div>
